@@ -1,9 +1,9 @@
-# Homebrew Tap for gupalo projects
+# Homebrew Tap for ukroporg projects
 
 ## Project Structure
 
 - `Formula/` — Homebrew formula files (Ruby, `.rb`)
-- Each formula corresponds to a project at https://github.com/gupalo/
+- Each formula corresponds to a project at https://github.com/ukroporg/
 
 ## Conventions
 
