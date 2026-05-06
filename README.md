@@ -1,21 +1,21 @@
 # Homebrew Tap
 
-Homebrew formulae for projects at [github.com/gupalo](https://github.com/gupalo/).
+Homebrew formulae for projects at [github.com/ukroporg](https://github.com/ukroporg/).
 
 ## Installation
 
 ```sh
-brew tap gupalo/tap
+brew tap ukroporg/tap
 ```
 
 ## Formulae
 
 ### ukrop
 
-Interactive fuzzy TUI for navigating recent directories and re-running commands.
+Quick directory jumping and command execution with fuzzy TUI.
 
 ```sh
-brew install gupalo/tap/ukrop
+brew install ukroporg/tap/ukrop
 ```
 
-For more information, see [github.com/gupalo/ukrop](https://github.com/gupalo/ukrop).
+For more information, see [github.com/ukroporg/ukrop](https://github.com/ukroporg/ukrop).
